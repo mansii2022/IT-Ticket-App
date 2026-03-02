@@ -1,0 +1,51 @@
+ticket_id,short_description,category,subcategory,issue_type
+1,Unable to connect to VPN from home network,Network,VPN,Access Issue
+2,Outlook not sending emails,Software,MS Outlook,Email Issue
+3,Laptop screen flickering intermittently,Hardware,Display,Performance Issue
+4,Password reset not working for AD account,Access Management,Active Directory,Access Issue
+5,WiFi disconnects frequently in office,Network,WiFi,Connectivity Issue
+6,Blue screen error after Windows update,Software,Windows OS,System Crash
+7,New employee needs system access,Access Management,User Provisioning,Access Request
+8,Printer not printing documents,Hardware,Printer,Hardware Failure
+9,Unable to access shared drive,Network,File Server,Permission Issue
+10,Zoom application crashing during meetings,Software,Zoom,Application Error
+11,System running very slow after login,Hardware,CPU/Memory,Performance Issue
+12,VPN authentication failed error,Network,VPN,Authentication Issue
+13,Email attachments not downloading,Software,MS Outlook,Functionality Issue
+14,Mouse not detected by laptop,Hardware,Peripherals,Hardware Failure
+15,Need access to finance application,Access Management,Application Access,Access Request
+16,Internet not working on desktop,Network,LAN,Connectivity Issue
+17,Excel file getting corrupted frequently,Software,MS Excel,File Issue
+18,Laptop battery draining quickly,Hardware,Battery,Performance Issue
+19,User account locked out multiple times,Access Management,Active Directory,Account Lock
+20,Teams audio not working,Software,MS Teams,Audio Issue
+21,Firewall blocking internal application,Network,Firewall,Access Issue
+22,System overheating during heavy usage,Hardware,CPU,Hardware Issue
+23,Unable to install software update,Software,Windows OS,Installation Issue
+24,Need admin rights temporarily,Access Management,Privilege Access,Access Request
+25,Network drive mapping disappeared,Network,File Server,Mapping Issue
+26,Keyboard keys not functioning properly,Hardware,Peripherals,Hardware Failure
+27,Application taking too long to load,Software,Internal App,Performance Issue
+28,VPN connected but no internet access,Network,VPN,Connectivity Issue
+29,New joiner email ID creation pending,Access Management,Email Provisioning,Access Request
+30,Monitor display resolution incorrect,Hardware,Display,Configuration Issue
+31,Unable to login to HR portal,Software,Web Portal,Authentication Issue
+32,LAN cable damaged and needs replacement,Network,LAN,Hardware Issue
+33,Outlook calendar not syncing,Software,MS Outlook,Sync Issue
+34,Hard disk making unusual noise,Hardware,Storage,Hardware Failure
+35,Access revoked incorrectly for user,Access Management,User Deprovisioning,Access Issue
+36,Slow internet speed in conference room,Network,WiFi,Performance Issue
+37,PowerPoint crashing when opening file,Software,MS PowerPoint,Application Error
+38,Laptop not turning on,Hardware,Motherboard,Hardware Failure
+39,Need access to shared mailbox,Access Management,Email Access,Access Request
+40,Frequent VPN disconnection during work,Network,VPN,Connectivity Issue
+41,Unable to update antivirus software,Software,Security Software,Update Issue
+42,Docking station not detecting monitor,Hardware,Peripherals,Hardware Issue
+43,User unable to access payroll system,Software,Payroll System,Access Issue
+44,Router reboot required frequently,Network,Router,Performance Issue
+45,System date and time incorrect,Software,Windows OS,Configuration Issue
+46,USB ports not working,Hardware,Peripherals,Hardware Failure
+47,Need access to project management tool,Access Management,Application Access,Access Request
+48,Internal website not loading,Network,DNS,Connectivity Issue
+49,Application license expired error,Software,Internal App,License Issue
+50,Multiple failed login attempts detected,Access Management,Security,Security Alert
