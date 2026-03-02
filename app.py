@@ -1,10 +1,14 @@
 import streamlit as st
-import pickle
+import joblib
 import numpy as np
 
-# Load trained model and vectorizer
-model = pickle.load(open("ticket_classifier.pkl", "rb"))
-vectorizer = pickle.load(open("tfidf_vectorizer.pkl", "rb"))
+@st.cache_resource
+def load_model():
+    model = joblib.load("ticket_classifier.pkl")
+    vectorizer = joblib.load("tfidf_vectorizer.pkl")
+    return model, vectorizer
+
+model, vectorizer = load_model()
 
 st.set_page_config(page_title="IT Ticket Validation", layout="centered")
 
