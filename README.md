@@ -47,6 +47,8 @@ IT-Ticket-App/
 ├── tfidf_vectorizer.pkl
 ├── requirements.txt
 └── solution.ipynb
+
+
 🧠 How It Works
 <img width="1314" height="560" alt="image" src="https://github.com/user-attachments/assets/c39ee1b5-d37e-4d84-b150-4c281e43bc31" />
 
