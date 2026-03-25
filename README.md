@@ -3,7 +3,7 @@
 🔗Live App:
 👉 https://it-ticket-app-22jkckxlzrvdqb7z2be7sj.streamlit.app/
 
- Overview
+ Overview.
 
 This project is a Machine Learning-based IT Ticket Categorization system that classifies service desk tickets using Natural Language Processing techniques.
 
